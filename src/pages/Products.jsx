@@ -6,7 +6,7 @@ import Pagination from "../components/Pagination";
 import Lottie from "lottie-react";
 import notfound from "../assets/notfound.json";
 import MobileFilter from "../components/MobileFilter";
-import FilterSection from "../components/FIlterSection";
+import FilterSection from "../components/FilterSection";
 
 const Products = () => {
   const { data, fetchAllProducts } = getData();
